@@ -81,12 +81,7 @@ All systems were built to be clean, modular and adaptable to other Unity project
 
 Laskards was developed over four months as part of our Bachelor’s thesis.
 
-Created by:
-
-* **Kai Neuß** – Game Design
-* **Jonathan Alber** – Programming
-
-Together we make up **Regenschau Games**.
+Created by two people, that together made up **Regenschau Games**.
 
 ---
 
@@ -94,7 +89,7 @@ Together we make up **Regenschau Games**.
 
 You can check out Laskards on our itch.io page:
 
-[https://jonathan-alber.itch.io/laskards](https://jonathan-alber.itch.io/laskards)
+[https://rhabarberschorle.itch.io/laskards](https://rhabarberschorle.itch.io/laskards)
 
 ---
 
